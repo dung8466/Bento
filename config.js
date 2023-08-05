@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Rap Viet',
+					link: 'https://www.youtube.com/watch?v=ZbR6dYkqorI&list=RDZbR6dYkqorI&start_radio=1&ab_channel=Gia%C4%90%C3%ACnhL%E1%BB%9Bn',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'JT Music',
+					link: 'https://www.youtube.com/watch?v=9JY5bBMj5kw&list=RD9JY5bBMj5kw&start_radio=1&ab_channel=JTMusic',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Best',
+					link: 'https://www.youtube.com/watch?v=_gAKgnDK22E&list=RD_gAKgnDK22E&start_radio=1&ab_channel=ReLikeVibes',
 				},
 				{
 					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=VRFCMM3bra8&list=RDVRFCMM3bra8&start_radio=1&ab_channel=BillyTalent',
 				},
 			],
 		},
